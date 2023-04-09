@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @rabbithunter0502
-- 👀 I’m interested in mechanical keyboard, coding.
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on every body
-- 📫 How to reach me, it's a secret :)) lol!
-
 # Hi, I'm Duc Le
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/duc-le-05b120173/)
@@ -13,6 +7,11 @@
 ## About Me
 
 A brief introduction to who you are, what you do, and what you're passionate about.
+- 👋 Hi, I’m @rabbithunter0502
+- 👀 I’m interested in mechanical keyboard, coding.
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on every body
+- 📫 How to reach me, it's a secret :)) lol!
 
 ## Skills
 
